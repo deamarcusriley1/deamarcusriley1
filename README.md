@@ -1,4 +1,4 @@
-<h1>Hi, I'm DeaMarcus! <br/><a href="https://github.com/deamarcusriley1">Financial Analyst</a>, <a href="https://www.linkedin.com/in/deamarcusriley/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm DeaMarcus! <br/><a href="https://github.com/deamarcusriley1">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/deamarcusriley/">Cloud Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
